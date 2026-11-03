@@ -3,26 +3,18 @@
   For an organization profile, place this file at profile/README.md in the org's public `.github` repository.
 -->
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h1>Build with Hammerspace</h1>
-      <p>
-        Find the tools and resources you need to get started with Hammerspace. Explore open-source projects,
-        deployment examples, infrastructure as code, SDKs, APIs, and integrations to automate deployments
-        and build data-driven applications.
-      </p>
-      <p>
-        Hammerspace provides a standards-based parallel file system and global namespace for accessing and
-        orchestrating distributed data across storage environments.
-      </p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- TODO: replace with architecture/product graphic -->
-      <img src="./assets/hammerspace-architecture.png" alt="Hammerspace architecture" width="100%">
-    </td>
-  </tr>
-</table>
+# Build with Hammerspace
+
+Find the tools and resources you need to get started with Hammerspace. Explore open-source projects, deployment examples, infrastructure as code, SDKs, APIs, and integrations to automate deployments and build data-driven applications.
+
+Hammerspace provides a standards-based parallel file system and global namespace for accessing and orchestrating distributed data across storage environments.
+
+## 🏗️ Hammerspace Architecture
+
+<p align="center">
+  <img src="./assets/hammerspace-architecture.png" width="100%"
+       alt="Hammerspace Data System architecture. AI and HPC compute (AI training and inference, AI factories, HPC clusters, cloud compute) connects through standards-based access (pNFS, NFS, SMB, S3) to the Hammerspace Data System, which provides data unification, intelligence, orchestration, acceleration and storage over a global namespace spanning on-prem storage (flash, object, NAS, parallel file systems) and cloud (AWS, Azure, Google Cloud, Oracle Cloud).">
+</p>
 
 ---
 

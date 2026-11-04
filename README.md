@@ -2,6 +2,7 @@
   Hammerspace GitHub landing page.
   For an organization profile, place this file at profile/README.md in the org's public `.github` repository.
 -->
+<a href="https://hammerspace.com/contact-us/"><img src="./assets/btn-contact-us.png" alt="Contact Us" height="40" align="right"></a>
 
 # Build with Hammerspace
 

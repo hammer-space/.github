@@ -12,7 +12,7 @@ Hammerspace provides a standards-based parallel file system and global namespace
 ## 🏗️ Hammerspace Architecture
 
 <p align="center">
-  <img src="./assets/hammerspace-architecture.png" width="100%"
+  <img src="./assets/hs-data-platform.png" width="100%"
        alt="Hammerspace Data System architecture. AI and HPC compute (AI training and inference, AI factories, HPC clusters, cloud compute) connects through standards-based access (pNFS, NFS, SMB, S3) to the Hammerspace Data System, which provides data unification, intelligence, orchestration, acceleration and storage over a global namespace spanning on-prem storage (flash, object, NAS, parallel file systems) and cloud (AWS, Azure, Google Cloud, Oracle Cloud).">
 </p>
 
